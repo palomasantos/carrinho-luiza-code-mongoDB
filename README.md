@@ -1,5 +1,5 @@
 # shopping-cart
-Projeto de integração do banco MongoDB shopping-cart do LuizaCode
+Integração do banco MongoDB com o projeto shopping-cart do LuizaCode
 
 
   
